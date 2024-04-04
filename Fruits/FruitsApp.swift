@@ -9,9 +9,14 @@ import SwiftUI
 
 @main
 struct FruitsApp: App {
+    @AppStorage("showOnboarding12") var showOnboarding : Bool = true
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            if showOnboarding {
+                OnboardingView()
+            } else {
+                ContentView()
+            }
         }
     }
 }
