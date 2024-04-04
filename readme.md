@@ -1,10 +1,10 @@
 
 
-#Fruits app based on a tutorial by Robert Petras
+# Fruits app based on a tutorial by Robert Petras
 
 
-###iPhone preview:
+### iPhone preview:
 ![preview](https://github.com/hasan-hm1/fruits/blob/main/preview_iphone.gif)
 
-###iPad preview:
+### iPad preview:
 ![preview](https://github.com/hasan-hm1/fruits/blob/main/preview_ipad.gif)
